@@ -15,8 +15,8 @@ p{
 img{
     width: 350px;
     height: 410px;
-    margin: 30px;
-    margin-left: 190px;
+    margin-left: 1000px;
+    margin-right: 1000px;
 }
 .cabecalho{
     background-color: white;
