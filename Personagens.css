@@ -15,8 +15,8 @@ p{
 img{
     width: 350px;
     height: 410px;
-    margin: 30px;
-    margin-left: 190px;
+    margin-left: 600px;
+    
 }
 .cabecalho{
     background-color: white;
@@ -33,14 +33,18 @@ img{
     padding-left: 250px;
 }
 h2{
-    font-size: 15px;
-    color:whitesmoke;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    text-align:left;
-}
-h3{
     font-size: 30px;
     color:whitesmoke;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    text-align:left;
+    text-align:center;
 }
+h3{
+    font-size: 20px;
+    color:whitesmoke;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align:center;
+    margin-left: 600px;
+    margin-right: 600px;
+    
+}
+
