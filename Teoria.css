@@ -39,8 +39,10 @@ h2{
     text-align:left;
 }
 h3{
-    font-size: 30px;
+    font-size: 20px;
     color:whitesmoke;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     text-align:left;
+    margin-left: 100px;
+    margin-right: 1100px;
 }
